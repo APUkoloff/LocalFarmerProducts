@@ -1,0 +1,55 @@
+{
+  "nav": {
+    "home": "Home",
+    "catalog": "Catalog",
+    "cart": "Cart",
+    "profile": "Profile",
+    "orders": "Orders",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "seller": "Seller",
+    "admin": "Admin"
+  },
+  "home": {
+    "title": "Fresh Farm Products",
+    "subtitle": "Buy directly from local farmers"
+  },
+  "catalog": {
+    "title": "Catalog",
+    "search": "Search...",
+    "sort": "Sort by",
+    "inStock": "In stock only",
+    "addToCart": "Add to cart",
+    "outOfStock": "Out of stock",
+    "lowStock": "Low stock"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Cart is empty",
+    "checkout": "Checkout",
+    "total": "Total"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "username": "Username",
+    "password": "Password",
+    "email": "Email"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "address": "Delivery address",
+    "phone": "Phone",
+    "payment": "Payment method",
+    "card": "Card",
+    "cash": "Cash on delivery",
+    "submit": "Place order"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "Error"
+  }
+}

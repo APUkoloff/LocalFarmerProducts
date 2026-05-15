@@ -1,0 +1,29 @@
+:root {
+  --fm-green: #2d6a4f;
+  --fm-light: #f8f9f5;
+}
+
+body {
+  background-color: var(--fm-light);
+  min-height: 100vh;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  color: var(--fm-green) !important;
+}
+
+.product-card img {
+  object-fit: cover;
+  height: 180px;
+  width: 100%;
+}
+
+.stock-low {
+  color: #dc3545;
+  font-size: 0.85rem;
+}
+
+.page-header {
+  margin-bottom: 1.5rem;
+}
